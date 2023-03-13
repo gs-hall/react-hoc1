@@ -1,2 +1,2 @@
-# netology-react-hoc1
+# react-hoc1
 time
